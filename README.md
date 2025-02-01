@@ -52,7 +52,7 @@ basic.random.init_random_generator: RandomGenerator:init: Normal mode, seed=1043
 
 ## Make a working python3 script for delta_score_per_mutation.py
 ### Way 1
-1. Make sure you are not actively in Python, no >>> in front of your cursor, and you are in the setup folder within the PyRosetta folder and the conda environment is running.
+1. Make sure you are not actively in Python (no >>> in front of your cursor), and you are in the setup folder within the PyRosetta folder and the conda environment is running.
 ```
 (rosetta)sk@MacBookPro setup %
 ```
